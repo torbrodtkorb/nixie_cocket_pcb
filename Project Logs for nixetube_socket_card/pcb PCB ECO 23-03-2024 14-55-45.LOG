@@ -1,0 +1,8 @@
+Added Component: Designator=J?(header SMD 1.27)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=N(NIXIE SOCKET)
+Added Member To Class: ClassName=schematic Member=Component J? connector_17_1
+Added Member To Class: ClassName=schematic Member=Component N nixie_socket
